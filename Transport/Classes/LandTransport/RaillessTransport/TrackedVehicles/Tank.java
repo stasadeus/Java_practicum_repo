@@ -1,0 +1,7 @@
+package Transport.Classes.LandTransport.RaillessTransport.TrackedVehicles;
+
+import Transport.Interfaces.InternalCombustionEngineTransport;
+import Transport.Interfaces.SpecialPurposeVehicles.InterdepartmentalTransport.MilitaryEquipment;
+
+public class Tank extends TrackedVehicles implements MilitaryEquipment, InternalCombustionEngineTransport {
+}

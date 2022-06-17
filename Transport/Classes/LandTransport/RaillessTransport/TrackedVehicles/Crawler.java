@@ -1,0 +1,7 @@
+package Transport.Classes.LandTransport.RaillessTransport.TrackedVehicles;
+
+import Transport.Interfaces.InternalCombustionEngineTransport;
+import Transport.Interfaces.SpecialPurposeVehicles.InhouseTransport.AgriculturalMachinery;
+
+public class Crawler extends TrackedVehicles implements AgriculturalMachinery, InternalCombustionEngineTransport {
+}

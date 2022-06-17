@@ -1,0 +1,4 @@
+package Transport.Interfaces.SpecialPurposeVehicles.InterdepartmentalTransport;
+
+public interface MilitaryEquipment extends InterdepartmentalTransport{
+}
