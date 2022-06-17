@@ -1,2 +1,2 @@
 # Car
-Creates car image
+This program creates car image.
